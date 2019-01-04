@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+built/
+npm-debug.log
+yarn-error.log
+package-lock.json
+gulpfile.js
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

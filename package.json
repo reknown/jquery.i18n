@@ -1,0 +1,32 @@
+{
+  "name": "fast-build-demo",
+  "version": "0.4.8",
+  "description": "快速构建简单前端模版",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johnnyR",
+  "license": "ISC",
+  "devDependencies": {
+    "art-template": "^3.0.3",
+    "autoprefixer": "^6.7.7",
+    "babel-preset-env": "^1.6.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cache": "^0.4.5",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-html-tpl": "^0.2.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-postcss": "^6.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.5.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.10",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}
